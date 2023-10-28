@@ -52,7 +52,7 @@ const Login = () => {
                             <input className='btn btn-primary capitalize' type="submit" value="Login" />
                         </div>
                     </form>
-                    <p className='text-center my-4'>New to Car Doctors <Link className='text-orange-500 font-bold' to="/signup">Sign Up</Link></p>
+                    <p className='text-center my-4'>New to Car Doctors <Link className='text-orange-500 font-bold' to="/signUp">Sign Up</Link></p>
                 </div>
             </div>
         </div>
